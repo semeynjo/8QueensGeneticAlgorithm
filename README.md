@@ -1,1 +1,1 @@
-# 8QueensGeneticAlgorithm
+# nQueens Genetic Algorithm
